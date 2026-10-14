@@ -1,0 +1,16 @@
+C:\C#\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\bin\Debug\net7.0-windows\FutureValue.exe
+C:\C#\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\bin\Debug\net7.0-windows\FutureValue.deps.json
+C:\C#\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\bin\Debug\net7.0-windows\FutureValue.runtimeconfig.json
+C:\C#\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\bin\Debug\net7.0-windows\FutureValue.dll
+C:\C#\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\bin\Debug\net7.0-windows\FutureValue.pdb
+C:\C#\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.frmFutureValue.resources
+C:\C#\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.csproj.GenerateResource.cache
+C:\C#\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.AssemblyInfoInputs.cache
+C:\C#\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.AssemblyInfo.cs
+C:\C#\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.csproj.CoreCompileInputs.cache
+C:\C#\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.dll
+C:\C#\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\refint\FutureValue.dll
+C:\C#\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.pdb
+C:\C#\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.genruntimeconfig.cache
+C:\C#\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\ref\FutureValue.dll
